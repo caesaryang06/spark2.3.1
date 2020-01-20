@@ -1,0 +1,5 @@
+1.Master启动,Worker启动
+2.Spark-submit提交任务,申请启动Driver,Driver注册Application，Application 任务task提交到Executor 运行。
+3.shuffle write端和shuffle read端
+       注册shuffle
+       ShuffleMapTask
